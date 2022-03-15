@@ -1,6 +1,6 @@
 # MSME ERP
  SpringBoot framework Based SaaS model Monolithic Architecture ERP, determined to provide open source and easy-to-use software for small and medium-sized enterprises, The main modules are retail management, procurement management, sales management, warehouse management, report query, system management, etc. Support prepayment, revenue and expenditure, warehouse allocation, assembly and disassembly, orders and other features. 
-
+For now only User module is commited to the repo.
 
 
 # Technical framework
