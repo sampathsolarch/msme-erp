@@ -10,3 +10,4 @@ Front-end framework: Vue 2.6.10 with yarn package manager
 UI Framework: Ant-Design-Vue 1.5.2
 Template framework: Jeecg-Boot 2.2.0
 Project Build Framework: Maven 3.2.3
+ ![Alt text](https://user-images.githubusercontent.com/39233553/158424637-b34bf00f-9241-4a8a-99c0-44df81fc6c86.PNG?raw=true "Dashboard")
