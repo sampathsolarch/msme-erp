@@ -4,13 +4,16 @@
 
 
 # Technical framework
-* Core framework: SpringBoot 2.0.0
+* Core framework: SpringBoot 2.0.0 
+* JDK: JDK 1.8
 * Persistence Layer Framework: Mybatis 1.3.2 ORM
 * Front-end framework: Vue 2.6.10 with yarn package manager
 * UI Framework: Ant-Design-Vue 1.5.2
 * Template framework: Jeecg-Boot 2.2.0
 * Project Build Framework: Maven 3.2.3
-
+* Redis: 6.2.1
+* Nginx: 1.12.2 
+* DB: Mysql 8.3
 
 
 DASHBOARD
