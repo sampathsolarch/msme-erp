@@ -3,13 +3,13 @@
 
 
 
-Technical framework
-Core framework: SpringBoot 2.0.0
-Persistence Layer Framework: Mybatis 1.3.2 ORM
-Front-end framework: Vue 2.6.10 with yarn package manager
-UI Framework: Ant-Design-Vue 1.5.2
-Template framework: Jeecg-Boot 2.2.0
-Project Build Framework: Maven 3.2.3
+# Technical framework
+* Core framework: SpringBoot 2.0.0
+* Persistence Layer Framework: Mybatis 1.3.2 ORM
+* Front-end framework: Vue 2.6.10 with yarn package manager
+* UI Framework: Ant-Design-Vue 1.5.2
+* Template framework: Jeecg-Boot 2.2.0
+* Project Build Framework: Maven 3.2.3
 
 
 
