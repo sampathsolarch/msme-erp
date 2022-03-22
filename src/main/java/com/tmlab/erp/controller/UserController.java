@@ -46,7 +46,7 @@ import io.swagger.annotations.ApiOperation;
  */
 @RestController
 @RequestMapping(value = "/user")
-@Api(tags = { "用户管理" })
+@Api(tags = { "User Management" })
 public class UserController {
 	private Logger logger = LoggerFactory.getLogger(UserController.class);
 
